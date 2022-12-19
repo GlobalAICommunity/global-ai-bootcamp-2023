@@ -1,1 +1,1 @@
-# global-ai-bootcamp-2023
+# Global AI Bootcamp 2023

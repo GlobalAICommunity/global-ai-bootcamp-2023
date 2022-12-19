@@ -12,3 +12,6 @@ March 2 until March 4 2023.
 
 ### Workshops
 You will find the workshops here from February first.
+
+### Keynote
+You will find the keynote here from February 20th. The duration of the keynote is 40 minuts.

@@ -9,9 +9,17 @@ March 2 until March 4 2023.
 - [Organizers Information](https://globalai.community/bootcamp-2023/organizers/)
 - [Speakers Presentation](https://github.com/GlobalAICommunity/global-ai-bootcamp-2023/tree/main/Artwork/Slidedeck)
 
+### Keynote
+You will find the keynote here from February 20th. The duration of the keynote is 40 minuts.
 
 ### Workshops
 You will find the workshops here from February first.
 
-### Keynote
-You will find the keynote here from February 20th. The duration of the keynote is 40 minuts.
+#### Patient registration made easy with AI services
+Most of the forms we complete nowadays are online but there are still times when we need to complete paper based forms. There are plenty of examples, for this workshop, we've chosen a patient registration for a doctor's surgery as it's something we've all had to do at some point.
+
+English: [https://newpatiente2e.github.io/docs/](https://newpatiente2e.github.io/docs/)   
+Spanish: TBA    
+Portuguees: TBA    
+ 
+

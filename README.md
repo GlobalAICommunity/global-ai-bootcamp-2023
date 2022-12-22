@@ -18,8 +18,10 @@ You will find the workshops here from February first.
 #### Patient registration made easy with AI services
 Most of the forms we complete nowadays are online but there are still times when we need to complete paper based forms. There are plenty of examples, for this workshop, we've chosen a patient registration for a doctor's surgery as it's something we've all had to do at some point.
 
-English: [https://newpatiente2e.github.io/docs/](https://newpatiente2e.github.io/docs/)   
-Spanish: TBA    
-Portuguees: TBA    
+| Language | Link |
+| --- | ---  |
+| English | [https://newpatiente2e.github.io/docs/](https://newpatiente2e.github.io/docs/)   
+| Spanish | TBA    
+| Portuguees | TBA    
  
 

@@ -25,3 +25,9 @@ Most of the forms we complete nowadays are online but there are still times when
 | Portuguees | TBA    
  
 
+### Machine Learning with Azure ML
+This workshop covers clustering with Azure Machine Learning, Automated ML, and model explainability.
+
+| Language | Link |
+| --- | --- |
+| English | [https://sammydeprez.gitbook.io/azure-machine-learning-model-training/](https://sammydeprez.gitbook.io/azure-machine-learning-model-training/)

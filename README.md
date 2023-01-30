@@ -10,7 +10,13 @@ March 2 until March 4 2023.
 - [Speakers Presentation](https://github.com/GlobalAICommunity/global-ai-bootcamp-2023/tree/main/Artwork/Slidedeck)
 
 ## Keynote
-You will find the keynote here from February 20th. The duration of the keynote is 40 minuts.
+You will find the keynote here from February 20th. The duration of the keynote is 45 minuts.
+
+| Language | Link |
+| --- | ---  |
+| Title | TBA  |
+| Speakers | John Montgomery (CVP Azure AI) / Bob Breynaert (Azure OpenAI) |
+| Abstract | TBA  |
 
 ## Workshops
 You will find the workshops here from February first.
@@ -21,9 +27,13 @@ Most of the forms we complete nowadays are online but there are still times when
 | Language | Link |
 | --- | ---  |
 | English | [https://newpatiente2e.github.io/docs/](https://newpatiente2e.github.io/docs/)   
-| Spanish | TBA    
-| Portuguees | TBA    
- 
+
+### Responsible AI
+TBA
+
+| Language | Link |
+| --- | ---  |
+| English | TBA  
 
 ### Machine Learning with Azure ML
 This workshop covers clustering with Azure Machine Learning, Automated ML, and model explainability.

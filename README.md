@@ -31,9 +31,10 @@ Most of the forms we complete nowadays are online but there are still times when
 ### Title: Introduction to Azure ML Responsible AI
 A machine learning model is a black box that is difficult to debug.  Traditional machine learning model performance techniques provide a little view of the true model accuracy.   In addition, these techniques have a blind spot in finding where the model or data errors are. This can lead to fairness or societal bias issues.  There is an increasing need for transparency to be able to understand or explain what features drove a model’s outcome for some industry regulations.  This workshop will give participants hands-on learning on how to use Azure Machine Learning’s Responsible AI dashboard to debug a model using Error Analysis, Data Analysis and Explainability/Interpretability.  At the end of the workshop, participants will learn best practices of using Azure Responsible AI dashboard to help ML professionals produce AI solutions that are less harmful and more trustworthy.
 
-| Language | Link |
+| Item | Link |
 | --- | ---  |
-| English | TBA  
+| Workshop | TBA  
+| Train the Trainer | https://youtu.be/gEOuxTC_sn8
 
 ### Machine Learning with Azure ML
 This workshop covers clustering with Azure Machine Learning, Automated ML, and model explainability.

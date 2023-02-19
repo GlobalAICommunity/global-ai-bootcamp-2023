@@ -12,9 +12,9 @@ March 2 until March 4 2023.
 ## Keynote
 You will find the keynote here from February 20th. The duration of the keynote is 45 minuts.
 
-| Language | Link |
+|  |  |
 | --- | ---  |
-| Title | TBA  |
+| Title | Unlocking the Potential of AI  |
 | Speakers | John Montgomery (Corporate Vice President Azure AI) <br> Bob Breynaert (Principal Program Manager, Azure OpenAI) <br> Dona Sarkar (Director Of Technology - Accessibility at Microsoft) <br> Sharon Lo (Principal Program Manager Ethics & Society) |
 | Abstract | This keynote video features John Montgomery, Corporate Vice President of Azure AI, Bob Breynaert, Dona Sarkar and Sharon Lo. They discuss the latest developments in AI at Microsoft, including the Azure OpenAI Service. They explore how AI can be used to improve accessibility and the importance of ethics and responsibility when it comes to AI. They also discuss the challenges and opportunities that come with the development of AI. The keynote video provides a comprehensive overview of the latest developments in AI at Microsoft and the implications for the future. |
 

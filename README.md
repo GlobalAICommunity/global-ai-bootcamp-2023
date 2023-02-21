@@ -28,7 +28,9 @@ Most of the forms we complete nowadays are online but there are still times when
 | Item | Link |
 | --- | ---  |
 | Workshop | [https://newpatiente2e.github.io/docs/](https://newpatiente2e.github.io/docs/)   
-| Train the Trainer | https://youtu.be/mkiYBvKh_Gk
+| Train the Trainer | [https://youtu.be/mkiYBvKh_Gk](https://youtu.be/mkiYBvKh_Gk)
+
+--- 
 
 ### Title: Introduction to Azure ML Responsible AI
 A machine learning model is a black box that is difficult to debug.  Traditional machine learning model performance techniques provide a little view of the true model accuracy.   In addition, these techniques have a blind spot in finding where the model or data errors are. This can lead to fairness or societal bias issues.  There is an increasing need for transparency to be able to understand or explain what features drove a model’s outcome for some industry regulations.  This workshop will give participants hands-on learning on how to use Azure Machine Learning’s Responsible AI dashboard to debug a model using Error Analysis, Data Analysis and Explainability/Interpretability.  At the end of the workshop, participants will learn best practices of using Azure Responsible AI dashboard to help ML professionals produce AI solutions that are less harmful and more trustworthy.
@@ -37,11 +39,14 @@ A machine learning model is a black box that is difficult to debug.  Traditional
 | --- | ---  |
 | Workshop | https://ruyakubu.github.io/rai-dashboard-workshop/
 | Instructor Materials | https://gitfront.io/r/user-2729840/GRHvg5wD9YgX/rai-workshop-instructor-materials/
-| Train the Trainer | https://youtu.be/gEOuxTC_sn8
+| Train the Trainer | [https://youtu.be/gEOuxTC_sn8](https://youtu.be/gEOuxTC_sn8)
+
+--- 
 
 ### Machine Learning with Azure ML
 This workshop covers clustering with Azure Machine Learning, Automated ML, and model explainability.
 
-| Language | Link |
+| Item | Link |
 | --- | --- |
-| English | [https://sammydeprez.gitbook.io/azure-machine-learning-model-training/](https://sammydeprez.gitbook.io/azure-machine-learning-model-training/)
+| Workshop | [https://sammydeprez.gitbook.io/azure-machine-learning-model-training/](https://sammydeprez.gitbook.io/azure-machine-learning-model-training/)
+| Train the trainer | [https://youtu.be/FTnzwnak_XQ](https://youtu.be/FTnzwnak_XQ)

@@ -38,7 +38,7 @@ A machine learning model is a black box that is difficult to debug.  Traditional
 | Item | Link |
 | --- | ---  |
 | Workshop | https://ruyakubu.github.io/rai-dashboard-workshop/
-| Instructor Materials | https://gitfront.io/r/user-7204374/etQVxYNmczMN/rai-workshop-instructor-materials/
+| Instructor Materials | https://github.com/ruyakubu/rai-workshop-instructor-materials
 | Train the Trainer | [https://youtu.be/gEOuxTC_sn8](https://youtu.be/gEOuxTC_sn8)
 
 --- 
